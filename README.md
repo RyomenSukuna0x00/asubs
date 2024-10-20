@@ -41,10 +41,11 @@ Before running the script, ensure you have the following tools installed:
    # Install subjack
    go install github.com/haccer/subjack@latest
 3. **Install ASubs**
+   ```bash
    #Clone the repo
    git clone https://github.com/RyomenSukuna0x00/asubs.git
    #Move asubs to /usr/bin directory
    cd asubs && sudo mv asubs.sh /usr/bin/asubs
 5. **Usage**
-   #Usage
+   ```bash
    asubs -d <target domain>
