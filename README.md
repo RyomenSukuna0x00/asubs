@@ -40,3 +40,9 @@ Before running the script, ensure you have the following tools installed:
 
    # Install subjack
    go install github.com/haccer/subjack@latest
+3. **Install ASubs**
+   git clone https://github.com/RyomenSukuna0x00/asubs.git
+   cd asubs
+   sudo mv asubs.sh /usr/bin/asubs
+4. **Usage**
+   asubs -d <target domain>
