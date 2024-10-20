@@ -44,7 +44,7 @@ Before running the script, ensure you have the following tools installed:
    ```bash
    git clone https://github.com/RyomenSukuna0x00/asubs.git
    
-   cd asubs &7 chmod +x asubs.sh && sudo mv asubs.sh /usr/bin/asubs
+   cd asubs && chmod +x asubs.sh && sudo mv asubs.sh /usr/bin/asubs
 5. **Usage**
    ```bash
    asubs -d <target domain>
