@@ -2,7 +2,7 @@
 # Subdomain Enumeration Toolset
 
 **Description:**  
-This repository contains a Bash script for efficient subdomain enumeration and endpoint discovery. Utilizing various tools, the script automates the process of gathering subdomains, scanning for open ports, and identifying web technologies. The toolset is designed for security researchers, bug bounty hunters, and penetration testers who aim to streamline their reconnaissance efforts.
+This repository contains a Bash script for efficient subdomain enumeration. Utilizing various tools, the script automates the process of gathering subdomains, scanning for open ports, and identifying web technologies. The toolset is designed for security researchers, bug bounty hunters, and penetration testers who aim to streamline their reconnaissance efforts.
 
 **Features:**
 - Automatically retrieves subdomains using `subfinder`.
